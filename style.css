@@ -1,0 +1,41 @@
+.container {
+  background-color: blueviolet;
+  height: 325px;
+  width: 275px;
+  display: flex;
+  border-radius: 0.5em;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 200px;
+  border: 3px solid black;
+  
+
+  img {
+    width: 250px;
+    cursor: pointer;
+  }
+}
+
+.page {
+  background-color: burlywood;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#button2x {
+  background-color: aqua;
+  padding: 6px 14px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#restartButton {
+   background-color: aqua;
+  padding: 6px 14px;
+  cursor: pointer;
+  font-size: 16px;
+  
+}
+}
